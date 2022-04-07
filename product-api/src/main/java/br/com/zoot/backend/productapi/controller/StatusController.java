@@ -1,4 +1,4 @@
-package br.com.zoot.backend.productapi;
+package br.com.zoot.backend.productapi.controller;
 
 import java.util.HashMap;
 
@@ -22,5 +22,4 @@ public class StatusController {
 		return ResponseEntity.ok(res);
 		
 	}
-	
 }
